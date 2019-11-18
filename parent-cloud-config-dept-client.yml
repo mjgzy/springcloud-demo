@@ -3,7 +3,7 @@
     active:
     - dev
 --- 
-server
+server:
   port: 8001 
 spring:
   profiles: dev
@@ -36,7 +36,7 @@ eureka:
     instance-id: provider_dept_8001
     prefer-ip-address: true  
 --- 
-server
+server:
   port: 8001 
 spring:
   profiles: test
