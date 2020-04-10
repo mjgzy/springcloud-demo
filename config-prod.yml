@@ -1,1 +1,2 @@
-prod
+config:
+  info: 我是生产环境的配置文件
