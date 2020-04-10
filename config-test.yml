@@ -1,1 +1,2 @@
-test
+config:
+  info: 我是测试环境的配置文件
